@@ -1,6 +1,6 @@
-# Frogger2340
-Frogger CS 2340-C Group 68
-Team Members: Yunsu Kim, Laltih Siripurapu, Aidan Pek, Shayahn Mirfendereski, Kendall Taylor
+# Cross the Road
+Cross the Road by CS 2340-C Group 68
+Contributors: Yunsu Kim, Laltih Siripurapu, Aidan Pek, Shayahn Mirfendereski, Kendall Taylor
 
 This project is current as of the end of Sprint 4.
 
